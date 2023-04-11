@@ -1,0 +1,24 @@
+body{
+
+    background-color: rgba(0, 255, 255, 0.908);
+    color: rgba(0, 0, 0, 0.94);
+    }
+    .Heading{
+    
+    width: 80%;
+    font-size: 25px;
+    
+    
+    }
+    #camera,#result{
+    
+    border: 2px solid pink;
+    width: 350px ; height: 300px;
+    
+    }
+    .name_of_objects,#object_name,#object_Accuracy{
+    
+    color: darkblue;
+    font-size: 18px;
+    
+}
